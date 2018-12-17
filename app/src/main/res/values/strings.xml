@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidComponents</string>
+    <string name="random_number">Random number</string>
+</resources>
